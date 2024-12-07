@@ -1,11 +1,10 @@
  h1{
-
-        color: rgb(253, 52, 176); font-size: 25px;
+     color: rgb(9, 173, 72); font-size: 25px;
     } 
-       p{
+   p{
         color: rgb(255, 209, 3); font-family:sans-serif ;
-       }
+    }
        img{
-        border: 1px solid rgb(100, 4, 4);
+        border: 1px solid rgb(7, 233, 56);
     
        }
