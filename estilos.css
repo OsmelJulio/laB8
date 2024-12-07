@@ -1,8 +1,10 @@
  h1{
      color: rgb(9, 173, 72); font-size: 25px;
     } 
+    
    p{
-        color: rgb(255, 209, 3); font-family:sans-serif ;
+    color: rgb(255, 209, 3);
+     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif sans-serif;
     }
        img{
         border: 1px solid rgb(7, 233, 56);
